@@ -1,3 +1,14 @@
+========================================
+The Forge for Video Editing.
+
+- CMake
+- Platform API Integration
+  - Apple: CVPixelBuffer, IOSurface
+  - Android: MediaCodec, AHardwareBuffer
+- Headers normalize
+========================================
+
+
 <img src="Screenshots/The Forge - Colour Black Landscape.png" width="108" height="46" />
 
 The Forge is a cross-platform rendering framework supporting
