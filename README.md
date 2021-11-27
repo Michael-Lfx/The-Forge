@@ -1,11 +1,16 @@
 ========================================   
 The Forge for Video Editing.
 
+**Supported Features**
+
+**Roadmap**
 - CMake
 - Platform API Integration
-  - Apple: CVPixelBuffer, IOSurface
+  - Apple: Create CVPixelBuffer/IOSurface based Metal Texture
   - Android: MediaCodec, AHardwareBuffer
 - Headers normalize
+- Load .png/.jpg assets. The Forge offical only support .kdx/.dds assets which are fit for video editing app.
+- OpenGL ES 3.0 on iOS. The Forge offical only support OpenGL ES 2.0 on Android. Obviously the iOS has better development experience.
 
 ========================================   
 
